@@ -1,4 +1,4 @@
-# Création des comptes Office 365 à aparti d'un CSV.
+# Création des comptes Office 365 à partir d'un CSV.
 
 ## Struture du CSV
 
