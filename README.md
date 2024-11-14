@@ -17,7 +17,7 @@ test@gmail.com, PrénomEtudiant, Nom-étudiant
 
 Ce script PowerShell a été développé pour fonctionner sur des machines Linux avec powershell 7.4
 Il installe les modules powershell suivant à sa première execution : 
-- Microsoft.Graph -Scope CurrentUser
+- Microsoft.Graph 
 - MSOnline
 
   ## Paramétrage :
