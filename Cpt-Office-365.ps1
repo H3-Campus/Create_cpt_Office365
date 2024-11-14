@@ -148,7 +148,7 @@ $body = @"
 <html>
 <body>
 <p>Bonjour,</p>
-<p>C-dessous vous trouverz vos informations de connexion pour accéder à votre compte Teams :</p>
+<p>Ci-dessous vous trouverez vos informations de connexion pour accéder à votre compte Teams :</p>
 <table style='border-collapse: collapse;'>
 <tr>
 <th style='border: 1px solid black; padding: 8px;'>Login</th>
@@ -161,6 +161,7 @@ $body = @"
 </table>
 
 <p>Un changement du mot de passe vous sera demandé à la première connexion.</p>
+<p><b>Note:</b>Vous pouvez accéder à votre boite e-mail en vous rendant sur le site: https://www.office.com</p></br>
 <p>Veuillez conserver ces informations en lieu sûr.</p><br>
 <p>Cordialement,<br>Service Informatique</p>
 </body>
